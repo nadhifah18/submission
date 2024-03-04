@@ -1,0 +1,2 @@
+https://submission-ghinasn.streamlit.app/
+http://localhost:8501/
