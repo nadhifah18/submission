@@ -1,9 +1,13 @@
-# Dicoding Collection Dashboard
+# Dicoding Collection Dashboard ✨
 
 ## Setup environment
+```
 pip install streamlit
+streamlit hello
+```
 
-## Run streamlit app
+## Run steamlit app
+```
 streamlit run main.py
-
+```
 
