@@ -9,7 +9,7 @@ st.title('Dashboard Kualitas Udara')
 # Membaca dataset
 @st.cache
 def load_data():
-    data = pd.read_csv('all_data.csv')
+    data = pd.read_csv('dashboard/all_data.csv')
     return data
 
 data = load_data()
